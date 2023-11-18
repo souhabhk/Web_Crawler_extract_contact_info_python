@@ -16,10 +16,9 @@ This Python script is designed for web scraping contact information from a given
 
 ## How to Use
 
-## Clone the repository:**
-
-   ```bash
+## Clone the repository
    git clone https://github.com/your-username/your-repo.git
+   
 ## Install the required dependencies:
 
 pip install -r requirements.txt
@@ -27,12 +26,12 @@ Set the target URL:
 
 Replace the value of the url variable with the URL of the targeted company's website in the main.py file.
 
-Run the script:
+## Run the script:
 The script will crawl the website, identify contact pages, and extract email addresses and phone numbers.
 Results
 The script will print the extracted contact information to the console. Additionally, you can modify the script to save the results to a file or database, depending on your needs.
 
-Notes
+## Notes
 This script is a basic example and may need modification to suit specific websites or requirements.
 Ensure compliance with ethical web scraping practices and respect the website's terms of service.
 Issues and Contributions
